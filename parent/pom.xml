@@ -4,7 +4,7 @@
     <groupId>com.sap.prd.mobile.ios.mios</groupId>
     <artifactId>quality-check-parent</artifactId> 
     <version>1.0.0</version> 
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>com.sap.prd.mobile.ios.mios</groupId>
@@ -164,7 +164,7 @@
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>4.8.2</version>
+        <version>4.13.2</version>
         <scope>test</scope>
       </dependency>
       <dependency>
