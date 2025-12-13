@@ -4,7 +4,7 @@
     <groupId>com.sap.prd.mobile.ios.mios</groupId>
     <artifactId>quality-check-parent</artifactId> 
     <version>1.0.0</version> 
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>com.sap.prd.mobile.ios.mios</groupId>
@@ -113,7 +113,7 @@
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-utils</artifactId>
-        <version>3.0.7</version>
+        <version>3.6.0</version>
       </dependency>
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
